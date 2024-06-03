@@ -9,7 +9,7 @@ An easy way to skip Discord updates on the macOS app launch.
 
 3 - Immediately close the app to prevent updates.
 
-4 - Then, use the (Command + Shift + G) shortcut and paste the "~/Library/Application Support/Discord/".
+4 - Then, use the (Command + Shift + G) shortcut in Finder and paste the "~/Library/Application Support/Discord/" path.
 
 5 - Drag the settings.json file into the ~/Library/Application Support/Discord/ folder.
 
