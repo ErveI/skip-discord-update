@@ -3,7 +3,7 @@ An easy way to skip Discord updates on the macOS app launch.
 
 # Step by Step Guide
 
-1 - Install the latest version that supports your macOS version.
+1 - Install the latest Discord version that supports your macOS version.
 
 2 - Open the DMG and drag it to the Applications folder, then open the app.
 
